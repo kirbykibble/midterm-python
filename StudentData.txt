@@ -1,0 +1,861 @@
+SN408277 CMP 151 Programming 1 (Java) 87 7
+SN744772 CMP 151 Programming 1 (Java) F 7
+SN405438 MTH 101 Discrete Mathematics 95 4
+SN464730 COP 200 Co-op Workterm F 16
+SN494141 PRJ 190 Practicum 81 6
+SN492397 CMP 101 Computational Logic 91 4
+SN090888 CMP 252 Programming 2 (Java) 83 4
+SN427471 BUS 172 Business 52 4
+SN493913 CMP 151 Programming 1 (Java) 87 7
+SN496965 ENG 101 Intro to Communications 80 4
+SN429861 CMP 151 Programming 1 (Java) 88 7
+SN415046 MTH 101 Discrete Mathematics 84 4
+SN214645 ENG 101 Intro to Communications 72 4
+SN428585 MTH 201 Discrete Mathematics 6 W 4
+SN786469 CMP 101 Computational Logic 92 4
+SN415751 CMP 104 Programming 1 (Python) 80 3
+SN420223 MTH 101 Discrete Mathematics 70 4
+SN791247 CMP 102 Web Development 86 4
+SN090888 SKL 001 Study Skills P 1
+SN745429 PRJ 190 Practicum 89 6
+SN423104 BUS 172 Business 78 4
+SN416008 CMP 151 Programming 1 (Java) 85 7
+SN714378 CMP 102 Web Development 57 4
+SN494154 ENG 101 Intro to Communications 78 4
+SN455733 SKL 001 Study Skills P 1
+SN493265 MTH 101 Discrete Mathematics 88 4
+SN279643 MTH 101 Discrete Mathematics 92 4
+SN424240 MTH 101 Discrete Mathematics 90 4
+SN494154 PRJ 190 Practicum 85 6
+SN419462 CMP 102 Web Development 84 4
+SN473547 CMP 102 Web Development 72 4
+SN408413 MTH 101 Discrete Mathematics 53 4
+SN495855 CMP 104 Programming 1 (Python) 79 3
+SN727800 ENG 101 Intro to Communications 81 4
+SN473547 SKL 001 Study Skills P 1
+SN707423 BUS 172 Business 76 4
+SN405350 PRJ 190 Practicum 96 6
+SN416008 ENG 101 Intro to Communications 87 4
+SN712520 SKL 001 Study Skills P 1
+SN405438 SKL 001 Study Skills P 1
+SN427471 SKL 001 Study Skills P 1
+SN407469 BUS 172 Business 82 4
+SN429084 CMP 102 Web Development 97 4
+SN495593 MTH 101 Discrete Mathematics 89 4
+SN426639 MTH 101 Discrete Mathematics 92 4
+SN420036 MTH 101 Discrete Mathematics W 4
+SN411178 BUS 172 Business 77 4
+SN420501 CMP 101 Computational Logic 67 4
+SN735764 BUS 172 Business 83 4
+SN407527 BUS 172 Business 76 4
+SN496965 PRJ 190 Practicum 84 6
+SN425906 MTH 101 Discrete Mathematics 83 4
+SN427163 PRJ 190 Practicum 87 6
+SN400091 CMP 102 Web Development 88 4
+SN090888 CMP 101 Computational Logic 93 4
+SN400445 CMP 102 Web Development 87 4
+SN495855 CMP 151 Programming 1 (Java) 45 7
+SN454194 PRJ 190 Practicum 88 6
+SN425906 CMP 151 Programming 1 (Java) 90 7
+SN407272 CMP 101 Computational Logic 93 4
+SN493265 SKL 001 Study Skills P 1
+SN419462 SKL 001 Study Skills P 1
+SN425438 SKL 001 Study Skills P 1
+SN407009 CMP 101 Computational Logic 95 4
+SN498706 CMP 105 Programming 1 (Javascript) 70 3
+SN436343 CMP 258 Programming 2 (C++) 73 4
+SN728125 BUS 172 Business W 4
+SN492397 CMP 151 Programming 1 (Java) 78 7
+SN735764 SKL 001 Study Skills P 1
+SN255487 CMP 101 Computational Logic 82 4
+SN464730 CMP 301 Analysis and Design 80 4
+SN422133 ENG 101 Intro to Communications 80 4
+SN494154 CMP 151 Programming 1 (Java) 80 7
+SN407527 ENG 101 Intro to Communications 73 4
+SN473547 PRJ 190 Practicum 89 6
+SN473547 BUS 172 Business 72 4
+SN424145 MTH 101 Discrete Mathematics 94 4
+SN408277 CMP 101 Computational Logic 93 4
+SN714378 ENG 101 Intro to Communications 38 4
+SN422635 MTH 101 Discrete Mathematics 97 4
+SN406516 CMP 151 Programming 1 (Java) 90 7
+SN495855 MTH 101 Discrete Mathematics W 4
+SN727800 MTH 101 Discrete Mathematics 92 4
+SN427163 CMP 106 Database Systems 79 5
+SN407469 MTH 101 Discrete Mathematics 99 4
+SN744772 SKL 001 Study Skills P 1
+SN420713 CMP 102 Web Development 82 4
+SN425438 PRJ 190 Practicum 76 6
+SN400091 SKL 001 Study Skills P 1
+SN423104 CMP 102 Web Development 96 4
+SN420223 SKL 001 Study Skills P 1
+SN425438 BUS 172 Business 55 4
+SN404016 CMP 252 Programming 2 (Java) W 4
+SN408413 CMP 102 Web Development 63 4
+SN473939 CMP 106 Database Systems 36 5
+SN735346 MTH 101 Discrete Mathematics 68 4
+SN493913 CMP 101 Computational Logic 87 4
+SN498706 CMP 104 Programming 1 (Python) 69 3
+SN483379 ENG 101 Intro to Communications 52 4
+SN424240 CMP 102 Web Development 93 4
+SN407469 ENG 101 Intro to Communications 80 4
+SN791247 CMP 101 Computational Logic 90 4
+SN427267 BUS 172 Business 56 4
+SN407272 CMP 102 Web Development 92 4
+SN407527 SKL 001 Study Skills F 1
+SN408413 ENG 101 Intro to Communications 45 4
+SN406516 CMP 250 Programming 2 C 94 5
+SN707423 CMP 101 Computational Logic 90 4
+SN426639 CMP 102 Web Development 85 4
+SN279643 CMP 252 Programming 2 (Java) W 4
+SN704557 SKL 001 Study Skills P 1
+SN404735 SKL 001 Study Skills P 1
+SN791247 MTH 101 Discrete Mathematics 71 4
+SN421355 CMP 102 Web Development 85 4
+SN407009 CMP 151 Programming 1 (Java) 88 7
+SN767264 CMP 105 Programming 1 (Javascript) 91 3
+SN422133 CMP 252 Programming 2 (Java) W 4
+SN492397 CMP 102 Web Development 78 4
+SN425642 CMP 151 Programming 1 (Java) 89 7
+SN408413 PRJ 190 Practicum 77 6
+SN422328 MTH 201 Discrete Mathematics 7 82 4
+SN767264 CMP 102 Web Development 67 4
+SN742012 COP 200 Co-op Workterm P 16
+SN429861 PRJ 190 Practicum 91 6
+SN209414 COP 200 Co-op Workterm P 16
+SN408277 MTH 101 Discrete Mathematics 90 4
+SN422635 CMP 101 Computational Logic 88 4
+SN424528 SKL 001 Study Skills P 1
+SN469658 BUS 172 Business 81 4
+SN786469 CMP 151 Programming 1 (Java) 88 7
+SN425165 PRJ 190 Practicum 86 6
+SN492345 CMP 151 Programming 1 (Java) 85 7
+SN426161 CMP 102 Web Development 86 4
+SN428585 CMP 102 Web Development 70 4
+SN480783 ENG 101 Intro to Communications 66 4
+SN422635 CMP 102 Web Development 97 4
+SN744772 CMP 101 Computational Logic 86 4
+SN712520 PRJ 190 Practicum 86 6
+SN423852 CMP 151 Programming 1 (Java) W 7
+SN402285 MTH 101 Discrete Mathematics 84 4
+SN427163 CMP 101 Computational Logic 89 4
+SN405438 CMP 102 Web Development 91 4
+SN473021 CMP 101 Computational Logic 85 4
+SN411843 CMP 102 Web Development 82 4
+SN467540 COP 200 Co-op Workterm P 16
+SN482518 COP 200 Co-op Workterm P 16
+SN018569 CMP 151 Programming 1 (Java) 79 7
+SN420501 SKL 001 Study Skills P 1
+SN425438 CMP 102 Web Development 75 4
+SN469658 CMP 151 Programming 1 (Java) 90 7
+SN407527 CMP 251 Programming 2 C 69 5
+SN425438 ENG 101 Intro to Communications 60 4
+SN460783 COP 200 Co-op Workterm P 16
+SN424145 SKL 001 Study Skills P 1
+SN791247 CMP 106 Database Systems 78 5
+SN402285 CMP 151 Programming 1 (Java) 86 7
+SN422133 BUS 172 Business 83 4
+SN408277 BUS 172 Business 84 4
+SN425992 CMP 151 Programming 1 (Java) 72 7
+SN419462 CMP 151 Programming 1 (Java) 86 7
+SN786469 CMP 105 Programming 1 (Javascript) 96 3
+SN423104 CMP 101 Computational Logic 92 4
+SN403935 SKL 001 Study Skills P 1
+SN429861 MTH 101 Discrete Mathematics 87 4
+SN473485 SKL 001 Study Skills P 1
+SN498706 CMP 101 Computational Logic 88 4
+SN483812 COP 200 Co-op Workterm P 16
+SN494141 CMP 252 Programming 2 (Java) 81 4
+SN744772 MTH 101 Discrete Mathematics 40 4
+SN423852 ENG 101 Intro to Communications 77 4
+SN420713 CMP 151 Programming 1 (Java) 85 7
+SN473485 ENG 101 Intro to Communications 76 4
+SN480783 CMP 101 Computational Logic 91 4
+SN483379 SKL 001 Study Skills P 1
+SN255487 CMP 151 Programming 1 (Java) 76 7
+SN407527 CMP 101 Computational Logic 81 4
+SN454194 CMP 151 Programming 1 (Java) F 7
+SN400445 SKL 001 Study Skills P 1
+SN426161 SKL 001 Study Skills P 1
+SN407469 PRJ 190 Practicum 85 6
+SN427267 CMP 102 Web Development 85 4
+SN405438 PRJ 190 Practicum 90 6
+SN403935 CMP 102 Web Development 92 4
+SN405438 CMP 151 Programming 1 (Java) 92 7
+SN483379 MTH 101 Discrete Mathematics 50 4
+SN415046 CMP 101 Computational Logic 92 4
+SN728125 SKL 001 Study Skills W 1
+SN024876 CMP 101 Computational Logic 93 4
+SN786469 CMP 102 Web Development 77 4
+SN424145 PRJ 190 Practicum 90 6
+SN427471 CMP 151 Programming 1 (Java) 65 7
+SN427471 MTH 101 Discrete Mathematics 41 4
+SN429961 ENG 101 Intro to Communications 75 4
+SN405350 ENG 101 Intro to Communications 90 4
+SN423852 BUS 172 Business 72 4
+SN402608 CMP 102 Web Development 96 4
+SN422133 CMP 102 Web Development 85 4
+SN499876 SKL 001 Study Skills P 1
+SN712520 MTH 101 Discrete Mathematics 80 4
+SN492397 MTH 101 Discrete Mathematics 72 4
+SN279643 CMP 101 Computational Logic 92 4
+SN422133 PRJ 190 Practicum 87 6
+SN425906 BUS 172 Business 83 4
+SN494154 CMP 102 Web Development 78 4
+SN402608 MTH 101 Discrete Mathematics 87 4
+SN402285 SKL 001 Study Skills P 1
+SN404735 MTH 101 Discrete Mathematics 77 4
+SN400091 CMP 151 Programming 1 (Java) 90 7
+SN454194 MTH 101 Discrete Mathematics 59 4
+SN493265 CMP 250 Programming 2 C 97 5
+SN425992 CMP 102 Web Development 73 4
+SN425438 MTH 101 Discrete Mathematics 80 4
+SN402285 BUS 172 Business 76 4
+SN483379 CMP 102 Web Development 74 4
+SN420713 PRJ 190 Practicum 84 6
+SN410265 BUS 172 Business 66 4
+SN405350 MTH 101 Discrete Mathematics 64 4
+SN044438 CMP 101 Computational Logic 92 4
+SN735346 PRJ 190 Practicum 87 6
+SN407272 SKL 001 Study Skills P 1
+SN786469 BUS 172 Business 72 4
+SN404735 CMP 250 Programming 2 C 75 5
+SN428585 PRJ 190 Practicum W 6
+SN411843 MTH 101 Discrete Mathematics 85 4
+SN280241 COP 200 Co-op Workterm P 16
+SN279643 ENG 101 Intro to Communications 88 4
+SN454375 COP 200 Co-op Workterm P 16
+SN405350 CMP 151 Programming 1 (Java) 69 7
+SN404016 ENG 101 Intro to Communications 82 4
+SN423104 CMP 151 Programming 1 (Java) 91 7
+SN279643 CMP 102 Web Development 94 4
+SN495855 CMP 102 Web Development W 4
+SN403935 CMP 151 Programming 1 (Java) 81 7
+SN498706 BUS 172 Business 66 4
+SN423852 CMP 101 Computational Logic 60 4
+SN495593 CMP 151 Programming 1 (Java) 88 7
+SN425906 CMP 101 Computational Logic 91 4
+SN422689 CMP 151 Programming 1 (Java) 96 7
+SN018569 CMP 102 Web Development 85 4
+SN214645 CMP 101 Computational Logic 91 4
+SN415046 CMP 102 Web Development 91 4
+SN422133 CMP 208 Computer Hardware W 4
+SN712520 BUS 172 Business 68 4
+SN024876 PRJ 190 Practicum 96 6
+SN473485 CMP 102 Web Development 79 4
+SN422328 CMP 101 Computational Logic 65 4
+SN255487 MTH 101 Discrete Mathematics 80 4
+SN735346 CMP 250 Programming 2 C 83 5
+SN404004 PRJ 190 Practicum 87 6
+SN425438 CMP 101 Computational Logic 84 4
+SN422689 BUS 172 Business 82 4
+SN480189 BUS 172 Business 68 4
+SN492345 CMP 102 Web Development 88 4
+SN425992 CMP 101 Computational Logic 74 4
+SN406516 PRJ 190 Practicum 88 6
+SN712520 CMP 250 Programming 2 C 82 5
+SN793493 ENG 101 Intro to Communications 79 4
+SN400445 BUS 172 Business 79 4
+SN090888 PRJ 190 Practicum 91 6
+SN764603 MTH 101 Discrete Mathematics 70 4
+SN493437 CMP 151 Programming 1 (Java) 88 7
+SN485898 CMP 252 Programming 2 (Java) 79 4
+SN423852 CMP 102 Web Development W 4
+SN704557 ENG 101 Intro to Communications 72 4
+SN468656 COP 200 Co-op Workterm P 16
+SN429084 MTH 101 Discrete Mathematics 95 4
+SN420036 ENG 101 Intro to Communications W 4
+SN090888 CMP 151 Programming 1 (Java) 93 7
+SN425165 BUS 172 Business 66 4
+SN408413 SKL 001 Study Skills P 1
+SN492345 PRJ 190 Practicum 82 6
+SN473547 CMP 101 Computational Logic 82 4
+SN728125 CMP 101 Computational Logic W 4
+SN279643 CMP 151 Programming 1 (Java) 95 7
+SN415046 BUS 172 Business 77 4
+SN707423 PRJ 190 Practicum 89 6
+SN455733 PRJ 190 Practicum 85 6
+SN771935 BUS 172 Business 67 4
+SN404004 SKL 001 Study Skills P 1
+SN422689 CMP 102 Web Development 93 4
+SN425165 SKL 001 Study Skills P 1
+SN735346 BUS 172 Business 77 4
+SN727800 CMP 151 Programming 1 (Java) 94 7
+SN492345 BUS 172 Business 64 4
+SN410265 SKL 001 Study Skills P 1
+SN791247 SKL 001 Study Skills P 1
+SN427471 CMP 102 Web Development 75 4
+SN455733 CMP 102 Web Development 73 4
+SN469658 MTH 101 Discrete Mathematics 86 4
+SN495855 SKL 001 Study Skills P 1
+SN485898 PRJ 190 Practicum 87 6
+SN499876 ENG 101 Intro to Communications 52 4
+SN422689 PRJ 190 Practicum 87 6
+SN024876 CMP 151 Programming 1 (Java) 90 7
+SN425165 CMP 101 Computational Logic 92 4
+SN750801 CMP 301 Analysis and Design 82 4
+SN400091 MTH 101 Discrete Mathematics 85 4
+SN405438 ENG 101 Intro to Communications 69 4
+SN018569 BUS 172 Business 74 4
+SN402285 CMP 102 Web Development 91 4
+SN707423 ENG 101 Intro to Communications 84 4
+SN480189 CMP 151 Programming 1 (Java) 46 7
+SN404004 BUS 172 Business 77 4
+SN963488 CMP 305 Network Design 86 5
+SN495855 CMP 101 Computational Logic 83 4
+SN438534 COP 200 Co-op Workterm P 16
+SN493437 PRJ 190 Practicum 81 6
+SN422635 CMP 151 Programming 1 (Java) 93 7
+SN727800 PRJ 190 Practicum 90 6
+SN421355 CMP 151 Programming 1 (Java) 93 7
+SN422635 ENG 101 Intro to Communications 83 4
+SN044438 PRJ 190 Practicum 89 6
+SN406516 CMP 102 Web Development 89 4
+SN499876 CMP 101 Computational Logic 85 4
+SN424145 CMP 102 Web Development 93 4
+SN468656 CMP 257 Programming 2 (C++) 91 4
+SN786469 ENG 101 Intro to Communications 68 4
+SN473485 CMP 101 Computational Logic 89 4
+SN407527 PRJ 190 Practicum 91 6
+SN400091 ENG 101 Intro to Communications 92 4
+SN485898 CMP 151 Programming 1 (Java) 87 7
+SN411178 SKL 001 Study Skills P 1
+SN492397 BUS 172 Business 71 4
+SN427163 CMP 252 Programming 2 (Java) W 4
+SN425438 CMP 151 Programming 1 (Java) 71 7
+SN251051 PRJ 190 Practicum 90 6
+SN484880 SKL 001 Study Skills P 1
+SN255487 SKL 001 Study Skills P 1
+SN454194 ENG 101 Intro to Communications 87 4
+SN424528 CMP 101 Computational Logic 90 4
+SN793493 BUS 172 Business 70 4
+SN404735 PRJ 190 Practicum 81 6
+SN469658 SKL 001 Study Skills P 1
+SN767264 CMP 101 Computational Logic 79 4
+SN421355 CMP 101 Computational Logic 90 4
+SN492345 MTH 201 Discrete Mathematics 5 81 4
+SN735764 CMP 101 Computational Logic 91 4
+SN214645 MTH 101 Discrete Mathematics 78 4
+SN493437 CMP 106 Database Systems 93 5
+SN793493 CMP 101 Computational Logic 94 4
+SN496965 MTH 101 Discrete Mathematics 73 4
+SN484880 BUS 172 Business 46 4
+SN735346 SKL 001 Study Skills P 1
+SN400445 PRJ 190 Practicum 89 6
+SN426161 BUS 172 Business 76 4
+SN793493 SKL 001 Study Skills P 1
+SN411178 CMP 101 Computational Logic 83 4
+SN425642 BUS 172 Business 73 4
+SN408277 CMP 102 Web Development 86 4
+SN404735 CMP 101 Computational Logic 88 4
+SN480783 BUS 172 Business 76 4
+SN473485 BUS 172 Business 60 4
+SN793493 MTH 101 Discrete Mathematics 88 4
+SN793493 CMP 151 Programming 1 (Java) 86 7
+SN494141 MTH 101 Discrete Mathematics 73 4
+SN744772 BUS 172 Business 46 4
+SN422689 SKL 001 Study Skills P 1
+SN494154 SKL 001 Study Skills P 1
+SN404004 CMP 101 Computational Logic 93 4
+SN420713 CMP 101 Computational Logic 94 4
+SN492345 CMP 250 Programming 2 C 89 5
+SN745429 CMP 102 Web Development 88 4
+SN420036 SKL 001 Study Skills W 1
+SN495593 CMP 250 Programming 2 C 87 5
+SN403935 CMP 101 Computational Logic 88 4
+SN419462 BUS 172 Business 76 4
+SN404016 SKL 001 Study Skills P 1
+SN429084 CMP 101 Computational Logic 93 4
+SN495855 CMP 105 Programming 1 (Javascript) 68 3
+SN454194 SKL 001 Study Skills P 1
+SN771935 ENG 101 Intro to Communications 59 4
+SN400091 PRJ 190 Practicum 90 6
+SN400445 CMP 252 Programming 2 (Java) 78 4
+SN438534 CMP 401 Operating Systems 86 5
+SN493437 ENG 101 Intro to Communications 72 4
+SN429961 SKL 001 Study Skills P 1
+SN727800 CMP 101 Computational Logic 94 4
+SN421355 BUS 172 Business 86 4
+SN494141 CMP 102 Web Development 80 4
+SN424240 ENG 101 Intro to Communications 78 4
+SN421355 ENG 101 Intro to Communications 85 4
+SN410265 MTH 101 Discrete Mathematics 50 4
+SN771935 CMP 101 Computational Logic 88 4
+SN426161 CMP 101 Computational Logic 91 4
+SN416457 COP 200 Co-op Workterm P 16
+SN404004 MTH 101 Discrete Mathematics 95 4
+SN473021 MTH 101 Discrete Mathematics 85 4
+SN419462 ENG 101 Intro to Communications 86 4
+SN714378 SKL 001 Study Skills F 1
+SN791247 CMP 151 Programming 1 (Java) 84 7
+SN411178 PRJ 190 Practicum 79 6
+SN214645 BUS 172 Business 81 4
+SN455733 CMP 101 Computational Logic 86 4
+SN425992 BUS 172 Business 75 4
+SN404004 CMP 151 Programming 1 (Java) 88 7
+SN495593 CMP 101 Computational Logic 89 4
+SN485898 CMP 102 Web Development 83 4
+SN251051 CMP 151 Programming 1 (Java) 94 7
+SN454194 CMP 102 Web Development 75 4
+SN406516 BUS 172 Business 85 4
+SN251051 SKL 001 Study Skills P 1
+SN492397 SKL 001 Study Skills P 1
+SN499876 CMP 151 Programming 1 (Java) 67 7
+SN416008 MTH 101 Discrete Mathematics 78 4
+SN485898 CMP 101 Computational Logic 92 4
+SN415751 CMP 105 Programming 1 (Javascript) 21 3
+SN771935 PRJ 190 Practicum 86 6
+SN416457 CMP 258 Programming 2 (C++) 90 4
+SN403935 ENG 101 Intro to Communications 88 4
+SN411843 SKL 001 Study Skills P 1
+SN411843 ENG 101 Intro to Communications 55 4
+SN090888 MTH 201 Discrete Mathematics 2 94 4
+SN454375 CMP 301 Analysis and Design 88 4
+SN404735 ENG 101 Intro to Communications 69 4
+SN745429 MTH 101 Discrete Mathematics 92 4
+SN467762 COP 200 Co-op Workterm P 16
+SN420501 BUS 172 Business 75 4
+SN416008 CMP 101 Computational Logic 88 4
+SN426161 CMP 151 Programming 1 (Java) F 7
+SN407009 SKL 001 Study Skills P 1
+SN473021 PRJ 190 Practicum 90 6
+SN493913 ENG 101 Intro to Communications 76 4
+SN495855 BUS 172 Business 65 4
+SN704557 BUS 172 Business 71 4
+SN707423 CMP 102 Web Development 81 4
+SN423104 SKL 001 Study Skills P 1
+SN422635 PRJ 190 Practicum 98 6
+SN214645 SKL 001 Study Skills P 1
+SN408277 ENG 101 Intro to Communications 84 4
+SN484880 MTH 101 Discrete Mathematics 28 4
+SN407469 CMP 151 Programming 1 (Java) 91 7
+SN406516 SKL 001 Study Skills P 1
+SN421355 MTH 101 Discrete Mathematics 85 4
+SN704557 CMP 102 Web Development 90 4
+SN735346 ENG 101 Intro to Communications 81 4
+SN420223 CMP 104 Programming 1 (Python) 85 3
+SN423104 ENG 101 Intro to Communications 82 4
+SN410265 CMP 102 Web Development 66 4
+SN424528 CMP 151 Programming 1 (Java) 87 7
+SN426639 CMP 101 Computational Logic 93 4
+SN714378 MTH 101 Discrete Mathematics 48 4
+SN473021 SKL 001 Study Skills P 1
+SN415046 ENG 101 Intro to Communications 69 4
+SN428585 SKL 001 Study Skills P 1
+SN420501 CMP 151 Programming 1 (Java) W 7
+SN411843 BUS 172 Business 67 4
+SN423852 MTH 101 Discrete Mathematics 60 4
+SN963488 CMP 302 Object Oriented Programming 87 4
+SN416008 BUS 172 Business 79 4
+SN473021 CMP 102 Web Development 93 4
+SN735346 CMP 101 Computational Logic 87 4
+SN407469 CMP 102 Web Development 86 4
+SN410265 ENG 101 Intro to Communications 57 4
+SN427163 SKL 001 Study Skills P 1
+SN750801 CMP 302 Object Oriented Programming 90 4
+SN407009 BUS 172 Business 83 4
+SN493265 ENG 101 Intro to Communications 71 4
+SN473547 ENG 101 Intro to Communications 66 4
+SN427267 CMP 151 Programming 1 (Java) 72 7
+SN493913 CMP 102 Web Development 68 4
+SN728125 PRJ 190 Practicum W 6
+SN402608 SKL 001 Study Skills P 1
+SN494154 CMP 101 Computational Logic 90 4
+SN484880 CMP 101 Computational Logic 85 4
+SN704557 MTH 101 Discrete Mathematics 72 4
+SN251051 CMP 102 Web Development 90 4
+SN420036 CMP 151 Programming 1 (Java) W 7
+SN416008 SKL 001 Study Skills P 1
+SN712520 CMP 151 Programming 1 (Java) 76 7
+SN424240 BUS 172 Business 83 4
+SN426639 PRJ 190 Practicum 89 6
+SN420223 BUS 172 Business 75 4
+SN767264 CMP 151 Programming 1 (Java) F 7
+SN493265 MTH 201 Discrete Mathematics 4 97 4
+SN420501 CMP 104 Programming 1 (Python) 28 3
+SN494141 CMP 151 Programming 1 (Java) 80 7
+SN498706 SKL 001 Study Skills P 1
+SN407469 CMP 101 Computational Logic 94 4
+SN018569 CMP 101 Computational Logic 89 4
+SN499876 BUS 172 Business 73 4
+SN429084 SKL 001 Study Skills P 1
+SN024876 SKL 001 Study Skills P 1
+SN422328 CMP 102 Web Development 67 4
+SN090888 ENG 101 Intro to Communications 92 4
+SN411178 CMP 102 Web Development 70 4
+SN767264 BUS 172 Business 69 4
+SN484880 CMP 102 Web Development 67 4
+SN420501 ENG 101 Intro to Communications 67 4
+SN492345 ENG 101 Intro to Communications 59 4
+SN420713 BUS 172 Business 77 4
+SN791247 ENG 101 Intro to Communications 90 4
+SN428585 CMP 151 Programming 1 (Java) 84 7
+SN403935 BUS 172 Business 76 4
+SN473547 CMP 151 Programming 1 (Java) 70 7
+SN420223 CMP 105 Programming 1 (Javascript) 88 3
+SN407272 MTH 101 Discrete Mathematics 83 4
+SN404004 CMP 102 Web Development 88 4
+SN493437 MTH 101 Discrete Mathematics 85 4
+SN494141 ENG 101 Intro to Communications 44 4
+SN424240 PRJ 190 Practicum 94 6
+SN408413 BUS 172 Business 53 4
+SN420223 CMP 101 Computational Logic 81 4
+SN407009 MTH 101 Discrete Mathematics 84 4
+SN771935 SKL 001 Study Skills P 1
+SN214645 CMP 151 Programming 1 (Java) 85 7
+SN473021 BUS 172 Business 79 4
+SN251051 ENG 101 Intro to Communications 68 4
+SN473485 CMP 151 Programming 1 (Java) 73 7
+SN425642 CMP 102 Web Development 67 4
+SN712520 CMP 102 Web Development 81 4
+SN494141 SKL 001 Study Skills P 1
+SN018569 ENG 101 Intro to Communications 66 4
+SN425906 CMP 252 Programming 2 (Java) 90 4
+SN492345 SKL 001 Study Skills P 1
+SN405350 SKL 001 Study Skills P 1
+SN498706 CMP 102 Web Development 74 4
+SN492397 ENG 101 Intro to Communications 57 4
+SN473939 CMP 108 Web Development and Design 80 3
+SN279643 SKL 001 Study Skills P 1
+SN427163 CMP 151 Programming 1 (Java) 75 7
+SN791247 CMP 208 Computer Hardware 76 4
+SN738177 COP 200 Co-op Workterm P 16
+SN480189 MTH 101 Discrete Mathematics W 4
+SN420713 SKL 001 Study Skills P 1
+SN454194 CMP 101 Computational Logic 92 4
+SN764603 CMP 101 Computational Logic 83 4
+SN473021 CMP 151 Programming 1 (Java) 93 7
+SN404735 BUS 172 Business 72 4
+SN436343 COP 200 Co-op Workterm P 16
+SN407469 SKL 001 Study Skills P 1
+SN422133 CMP 101 Computational Logic 79 4
+SN499876 PRJ 190 Practicum 81 6
+SN424145 CMP 101 Computational Logic 94 4
+SN411178 CMP 151 Programming 1 (Java) 87 7
+SN404004 ENG 101 Intro to Communications 86 4
+SN408413 CMP 101 Computational Logic 69 4
+SN402608 BUS 172 Business 92 4
+SN424528 CMP 102 Web Development 91 4
+SN024876 CMP 102 Web Development 90 4
+SN791247 PRJ 190 Practicum 86 6
+SN426639 ENG 101 Intro to Communications 91 4
+SN427267 SKL 001 Study Skills P 1
+SN786469 MTH 101 Discrete Mathematics 92 4
+SN427267 ENG 101 Intro to Communications 59 4
+SN214645 CMP 102 Web Development 88 4
+SN735346 CMP 151 Programming 1 (Java) 81 7
+SN421355 SKL 001 Study Skills P 1
+SN422328 SKL 001 Study Skills P 1
+SN791247 BUS 172 Business 80 4
+SN495855 CMP 108 Web Development and Design 94 3
+SN429084 PRJ 190 Practicum 97 6
+SN415751 SKL 001 Study Skills F 1
+SN493437 CMP 102 Web Development 84 4
+SN963488 COP 200 Co-op Workterm P 16
+SN425992 PRJ 190 Practicum 86 6
+SN405350 CMP 101 Computational Logic 91 4
+SN498706 CMP 151 Programming 1 (Java) F 7
+SN426639 BUS 172 Business 79 4
+SN738177 CMP 302 Object Oriented Programming 95 4
+SN407009 ENG 101 Intro to Communications 69 4
+SN424145 ENG 101 Intro to Communications 86 4
+SN044438 CMP 151 Programming 1 (Java) 93 7
+SN279643 BUS 172 Business 86 4
+SN786469 PRJ 190 Practicum 81 6
+SN422689 ENG 101 Intro to Communications 83 4
+SN428585 MTH 101 Discrete Mathematics 80 4
+SN280241 CMP 258 Programming 2 (C++) 62 4
+SN044438 MTH 101 Discrete Mathematics 93 4
+SN764603 BUS 172 Business 70 4
+SN473547 MTH 101 Discrete Mathematics 68 4
+SN407272 ENG 101 Intro to Communications 80 4
+SN214645 PRJ 190 Practicum 90 6
+SN406516 ENG 101 Intro to Communications 70 4
+SN404016 CMP 102 Web Development 78 4
+SN422328 PRJ 190 Practicum 88 6
+SN429861 ENG 101 Intro to Communications 91 4
+SN420036 PRJ 190 Practicum W 6
+SN423104 PRJ 190 Practicum 85 6
+SN493265 PRJ 190 Practicum 94 6
+SN467687 COP 200 Co-op Workterm P 16
+SN492397 PRJ 190 Practicum 85 6
+SN707423 SKL 001 Study Skills P 1
+SN735764 CMP 102 Web Development 94 4
+SN425165 MTH 101 Discrete Mathematics 94 4
+SN406516 MTH 101 Discrete Mathematics 88 4
+SN764603 SKL 001 Study Skills P 1
+SN422635 BUS 172 Business 83 4
+SN422328 ENG 101 Intro to Communications 81 4
+SN425642 PRJ 190 Practicum 79 6
+SN427267 MTH 101 Discrete Mathematics 80 4
+SN493265 CMP 101 Computational Logic 97 4
+SN427471 ENG 101 Intro to Communications 40 4
+SN745429 ENG 101 Intro to Communications 83 4
+SN436343 CMP 301 Analysis and Design 84 4
+SN495855 ENG 101 Intro to Communications 67 4
+SN435681 COP 200 Co-op Workterm P 16
+SN728125 MTH 101 Discrete Mathematics W 4
+SN492345 CMP 101 Computational Logic 93 4
+SN018569 MTH 101 Discrete Mathematics 61 4
+SN469658 ENG 101 Intro to Communications 90 4
+SN455733 CMP 151 Programming 1 (Java) 86 7
+SN429961 MTH 101 Discrete Mathematics 88 4
+SN496965 CMP 101 Computational Logic 90 4
+SN403935 PRJ 190 Practicum 88 6
+SN424240 CMP 151 Programming 1 (Java) 88 7
+SN422133 SKL 001 Study Skills P 1
+SN428585 CMP 101 Computational Logic 84 4
+SN496965 CMP 102 Web Development 79 4
+SN496965 BUS 172 Business 79 4
+SN493913 BUS 172 Business 69 4
+SN422133 MTH 101 Discrete Mathematics 87 4
+SN727800 CMP 102 Web Development 92 4
+SN422689 CMP 101 Computational Logic 87 4
+SN764603 CMP 151 Programming 1 (Java) 72 7
+SN421355 PRJ 190 Practicum 89 6
+SN251051 BUS 172 Business 86 4
+SN024876 MTH 201 Discrete Mathematics 3 92 4
+SN406516 CMP 101 Computational Logic 86 4
+SN411843 CMP 151 Programming 1 (Java) 75 7
+SN427471 PRJ 190 Practicum 71 6
+SN400445 CMP 101 Computational Logic 92 4
+SN495593 ENG 101 Intro to Communications 84 4
+SN425438 CMP 252 Programming 2 (Java) 78 4
+SN425642 ENG 101 Intro to Communications 65 4
+SN480189 CMP 101 Computational Logic 76 4
+SN420223 CMP 151 Programming 1 (Java) F 7
+SN420036 BUS 172 Business W 4
+SN771935 MTH 101 Discrete Mathematics 84 4
+SN428585 BUS 172 Business 67 4
+SN425992 SKL 001 Study Skills P 1
+SN425642 MTH 101 Discrete Mathematics 77 4
+SN404016 PRJ 190 Practicum 86 6
+SN714378 BUS 172 Business 60 4
+SN424528 PRJ 190 Practicum 93 6
+SN494141 CMP 101 Computational Logic 78 4
+SN424528 MTH 101 Discrete Mathematics 81 4
+SN423852 SKL 001 Study Skills P 1
+SN405438 CMP 101 Computational Logic 92 4
+SN429961 CMP 102 Web Development 86 4
+SN404735 CMP 151 Programming 1 (Java) 72 7
+SN717361 COP 200 Co-op Workterm P 16
+SN404016 MTH 101 Discrete Mathematics 81 4
+SN403935 MTH 101 Discrete Mathematics 68 4
+SN429961 CMP 101 Computational Logic 91 4
+SN426161 ENG 101 Intro to Communications 77 4
+SN493437 SKL 001 Study Skills P 1
+SN427267 PRJ 190 Practicum 75 6
+SN480783 CMP 151 Programming 1 (Java) 81 7
+SN402608 PRJ 190 Practicum 91 6
+SN410265 PRJ 190 Practicum 83 6
+SN494154 MTH 101 Discrete Mathematics 62 4
+SN420713 MTH 101 Discrete Mathematics 93 4
+SN018569 PRJ 190 Practicum 81 6
+SN415046 PRJ 190 Practicum 88 6
+SN425165 CMP 151 Programming 1 (Java) 86 7
+SN400445 ENG 101 Intro to Communications 67 4
+SN767264 ENG 101 Intro to Communications 75 4
+SN494141 BUS 172 Business 73 4
+SN480189 CMP 102 Web Development 59 4
+SN727800 BUS 172 Business 74 4
+SN420036 CMP 101 Computational Logic W 4
+SN484880 CMP 151 Programming 1 (Java) F 7
+SN767264 SKL 001 Study Skills P 1
+SN424145 CMP 151 Programming 1 (Java) 89 7
+SN485369 COP 200 Co-op Workterm P 16
+SN429084 CMP 151 Programming 1 (Java) 95 7
+SN411178 MTH 101 Discrete Mathematics 86 4
+SN018569 SKL 001 Study Skills P 1
+SN024876 ENG 101 Intro to Communications 94 4
+SN455733 BUS 172 Business 69 4
+SN251051 MTH 101 Discrete Mathematics 91 4
+SN425906 ENG 101 Intro to Communications 87 4
+SN425642 SKL 001 Study Skills P 1
+SN424240 CMP 101 Computational Logic 94 4
+SN425992 ENG 101 Intro to Communications 62 4
+SN422328 BUS 172 Business 83 4
+SN704557 CMP 151 Programming 1 (Java) 91 7
+SN255487 ENG 101 Intro to Communications 74 4
+SN422635 SKL 001 Study Skills P 1
+SN466857 COP 200 Co-op Workterm P 16
+SN419462 CMP 101 Computational Logic 90 4
+SN407527 CMP 102 Web Development 75 4
+SN420223 CMP 102 Web Development 71 4
+SN422133 CMP 151 Programming 1 (Java) 92 7
+SN712520 CMP 101 Computational Logic 85 4
+SN408413 CMP 151 Programming 1 (Java) F 7
+SN404016 CMP 101 Computational Logic 90 4
+SN455733 ENG 101 Intro to Communications 63 4
+SN704557 CMP 101 Computational Logic 89 4
+SN422328 CMP 151 Programming 1 (Java) 60 7
+SN469658 CMP 250 Programming 2 C 89 5
+SN427267 CMP 101 Computational Logic 89 4
+SN415046 CMP 151 Programming 1 (Java) 92 7
+SN425906 PRJ 190 Practicum 89 6
+SN429084 ENG 101 Intro to Communications 96 4
+SN424240 SKL 001 Study Skills P 1
+SN745429 CMP 151 Programming 1 (Java) 94 7
+SN426639 CMP 151 Programming 1 (Java) 88 7
+SN400091 CMP 101 Computational Logic 91 4
+SN429961 CMP 151 Programming 1 (Java) 91 7
+SN024876 BUS 172 Business 84 4
+SN495593 CMP 102 Web Development 88 4
+SN495593 PRJ 190 Practicum 84 6
+SN425165 CMP 102 Web Development 83 4
+SN410265 CMP 151 Programming 1 (Java) 70 7
+SN767264 CMP 104 Programming 1 (Python) 81 3
+SN420036 CMP 102 Web Development W 4
+SN090888 CMP 102 Web Development 93 4
+SN425992 MTH 101 Discrete Mathematics 72 4
+SN473939 CMP 104 Programming 1 (Python) 21 3
+SN400445 CMP 151 Programming 1 (Java) 90 7
+SN735764 PRJ 190 Practicum 99 6
+SN493437 BUS 172 Business 75 4
+SN400091 BUS 172 Business 78 4
+SN493913 MTH 101 Discrete Mathematics 79 4
+SN786469 SKL 001 Study Skills P 1
+SN424528 BUS 172 Business 80 4
+SN714378 CMP 101 Computational Logic 40 4
+SN429961 BUS 172 Business 77 4
+SN480783 MTH 101 Discrete Mathematics 85 4
+SN735764 MTH 101 Discrete Mathematics 93 4
+SN425906 CMP 102 Web Development 93 4
+SN485898 MTH 101 Discrete Mathematics 75 4
+SN415751 MTH 101 Discrete Mathematics W 4
+SN426161 MTH 101 Discrete Mathematics 44 4
+SN707423 CMP 250 Programming 2 C 84 5
+SN429861 BUS 172 Business 85 4
+SN480189 SKL 001 Study Skills P 1
+SN405350 CMP 102 Web Development 84 4
+SN469658 PRJ 190 Practicum 96 6
+SN707423 CMP 151 Programming 1 (Java) 84 7
+SN498706 ENG 101 Intro to Communications 74 4
+SN044438 SKL 001 Study Skills F 1
+SN044438 CMP 102 Web Development 86 4
+SN764603 ENG 101 Intro to Communications 69 4
+SN498706 MTH 101 Discrete Mathematics 47 4
+SN793493 CMP 102 Web Development 87 4
+SN416008 CMP 102 Web Development 91 4
+SN428585 ENG 101 Intro to Communications 57 4
+SN429961 PRJ 190 Practicum 85 6
+SN429861 SKL 001 Study Skills P 1
+SN704557 PRJ 190 Practicum 86 6
+SN424145 BUS 172 Business 86 4
+SN735764 ENG 101 Intro to Communications 75 4
+SN416457 CMP 257 Programming 2 (C++) 97 4
+SN499876 CMP 102 Web Development 74 4
+SN485898 ENG 101 Intro to Communications 87 4
+SN420223 PRJ 190 Practicum 83 6
+SN415751 PRJ 190 Practicum F 6
+SN415046 SKL 001 Study Skills P 1
+SN407272 PRJ 190 Practicum 94 6
+SN493265 CMP 102 Web Development 98 4
+SN279643 PRJ 190 Practicum 90 6
+SN727800 SKL 001 Study Skills P 1
+SN484880 ENG 101 Intro to Communications 67 4
+SN024876 CMP 252 Programming 2 (Java) 91 4
+SN744772 CMP 102 Web Development 61 4
+SN419462 MTH 101 Discrete Mathematics 67 4
+SN728125 CMP 102 Web Development W 4
+SN480783 PRJ 190 Practicum 84 6
+SN745429 BUS 172 Business 80 4
+SN496965 CMP 151 Programming 1 (Java) 87 7
+SN473021 ENG 101 Intro to Communications 88 4
+SN419462 PRJ 190 Practicum 93 6
+SN411178 ENG 101 Intro to Communications 78 4
+SN044438 ENG 101 Intro to Communications 85 4
+SN728125 ENG 101 Intro to Communications W 4
+SN793493 PRJ 190 Practicum 88 6
+SN426639 SKL 001 Study Skills P 1
+SN427471 CMP 101 Computational Logic 88 4
+SN402285 ENG 101 Intro to Communications 93 4
+SN404735 CMP 102 Web Development 76 4
+SN496965 SKL 001 Study Skills P 1
+SN707423 MTH 101 Discrete Mathematics 75 4
+SN425642 CMP 101 Computational Logic 79 4
+SN485898 SKL 001 Study Skills P 1
+SN402608 CMP 151 Programming 1 (Java) 92 7
+SN420223 ENG 101 Intro to Communications 87 4
+SN493913 SKL 001 Study Skills P 1
+SN280241 CMP 257 Programming 2 (C++) 75 4
+SN407009 CMP 102 Web Development 91 4
+SN427163 CMP 102 Web Development 79 4
+SN483379 BUS 172 Business 56 4
+SN402285 CMP 101 Computational Logic 93 4
+SN712520 ENG 101 Intro to Communications 68 4
+SN402285 PRJ 190 Practicum 99 6
+SN420501 MTH 101 Discrete Mathematics W 4
+SN405350 BUS 172 Business 77 4
+SN485898 BUS 172 Business 82 4
+SN422328 CMP 250 Programming 2 C 42 5
+SN493265 CMP 151 Programming 1 (Java) 96 7
+SN422328 MTH 101 Discrete Mathematics 64 4
+SN436343 CMP 257 Programming 2 (C++) 86 4
+SN422689 MTH 101 Discrete Mathematics 96 4
+SN407272 BUS 172 Business 90 4
+SN473485 PRJ 190 Practicum 85 6
+SN222246 COP 200 Co-op Workterm P 16
+SN771935 CMP 102 Web Development 76 4
+SN400445 MTH 101 Discrete Mathematics 90 4
+SN767264 MTH 101 Discrete Mathematics 47 4
+SN735764 CMP 151 Programming 1 (Java) 85 7
+SN402608 CMP 101 Computational Logic 93 4
+SN416008 PRJ 190 Practicum 96 6
+SN408277 PRJ 190 Practicum 91 6
+SN425906 SKL 001 Study Skills P 1
+SN429861 CMP 101 Computational Logic 92 4
+SN405438 BUS 172 Business 74 4
+SN402608 ENG 101 Intro to Communications 86 4
+SN744772 ENG 101 Intro to Communications 53 4
+SN455733 MTH 101 Discrete Mathematics 70 4
+SN480783 CMP 102 Web Development 84 4
+SN420713 ENG 101 Intro to Communications 80 4
+SN494154 BUS 172 Business 75 4
+SN090888 MTH 101 Discrete Mathematics 91 4
+SN044438 BUS 172 Business 76 4
+SN411843 CMP 101 Computational Logic 91 4
+SN480189 ENG 101 Intro to Communications 57 4
+SN745429 SKL 001 Study Skills P 1
+SN493913 PRJ 190 Practicum 87 6
+SN764603 CMP 102 Web Development 75 4
+SN407272 CMP 151 Programming 1 (Java) 88 7
+SN255487 CMP 102 Web Development 81 4
+SN411843 PRJ 190 Practicum 87 6
+SN495593 SKL 001 Study Skills P 1
+SN468656 CMP 258 Programming 2 (C++) 78 4
+SN745429 CMP 101 Computational Logic 94 4
+SN469658 CMP 102 Web Development 91 4
+SN793824 COP 200 Co-op Workterm P 16
+SN415751 CMP 102 Web Development W 4
+SN427163 MTH 101 Discrete Mathematics 79 4
+SN429084 BUS 172 Business 85 4
+SN714378 CMP 151 Programming 1 (Java) 59 7
+SN735346 CMP 102 Web Development 83 4
+SN484880 BUS 173 Management Skills 78 3
+SN410265 CMP 101 Computational Logic 90 4
+SN090888 BUS 172 Business 87 4
+SN728125 CMP 151 Programming 1 (Java) W 7
+SN771935 CMP 151 Programming 1 (Java) 50 7
+SN495593 BUS 172 Business 81 4
+SN415751 CMP 151 Programming 1 (Java) W 7
+SN492345 MTH 101 Discrete Mathematics 77 4
+SN425165 ENG 101 Intro to Communications 63 4
+SN429861 CMP 102 Web Development 84 4
+SN255487 PRJ 190 Practicum 87 6
+SN480783 SKL 001 Study Skills P 1
+SN493265 BUS 172 Business 80 4
+SN209414 CMP 301 Analysis and Design 84 4
+SN404016 BUS 172 Business 78 4
+SN420501 CMP 102 Web Development 73 4
+SN786469 CMP 257 Programming 2 (C++) 90 4
+SN493437 CMP 101 Computational Logic 88 4
+SN750801 COP 200 Co-op Workterm P 16
+SN024876 MTH 101 Discrete Mathematics 90 4
+SN408277 SKL 001 Study Skills P 1
+SN454194 BUS 172 Business 79 4
+SN473485 MTH 101 Discrete Mathematics 88 4
+SN764603 PRJ 190 Practicum 73 6
+SN404016 CMP 151 Programming 1 (Java) 81 7
+SN483379 CMP 101 Computational Logic 80 4
+SN251051 CMP 101 Computational Logic 93 4
+SN423104 MTH 101 Discrete Mathematics 95 4
